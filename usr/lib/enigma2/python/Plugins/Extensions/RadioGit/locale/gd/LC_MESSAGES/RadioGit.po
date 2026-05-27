@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Scottish Gaelic <fios@foramnagaidhlig.net>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "Luchdaich sìos mearachd"
+
+msgid "Exit"
+msgstr "Ar-a-mach"
+
+msgid "Export TV"
+msgstr "Às-mhalairt Tbh"
+
+msgid "Filter this category..."
+msgstr "Criathraich an roinn seo..."
+
+msgid "No channels found in search!!!"
+msgstr "Cha deach seanalan a lorg san rannsachadh !!!"
+
+msgid "Radio N°%s"
+msgstr "Rèidio N°%s"
+
+msgid "Search"
+msgstr "Rannsaich"
+
+msgid "Select"
+msgstr "Tagh"

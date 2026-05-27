@@ -1,0 +1,42 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <team@lists.gnome.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Download Error"
+msgstr "Σφάλμα λήψης"
+
+msgid "Exit"
+msgstr "Εξοδος"
+
+msgid "Export TV"
+msgstr "Εξαγωγή τηλεόρασης"
+
+msgid "Filter this category..."
+msgstr "Φιλτράρισμα αυτής της κατηγορίας..."
+
+msgid "No channels found in search!!!"
+msgstr "Δεν βρέθηκαν κανάλια στην αναζήτηση!!!"
+
+msgid "Radio N°%s"
+msgstr "Ραδιόφωνο Ν°%s"
+
+msgid "Search"
+msgstr "Ερευνα"
+
+msgid "Select"
+msgstr "Επιλέγω"

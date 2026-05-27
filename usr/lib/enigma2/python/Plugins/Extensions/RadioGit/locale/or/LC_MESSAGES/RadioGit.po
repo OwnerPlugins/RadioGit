@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "ତ୍ରୁଟି ଡାଉନଲୋଡ୍ କରନ୍ତୁ |"
+
+msgid "Exit"
+msgstr "ପ୍ରସ୍ଥାନ"
+
+msgid "Export TV"
+msgstr "ଟିଭି ରପ୍ତାନି କରନ୍ତୁ |"
+
+msgid "Filter this category..."
+msgstr "ଏହି ବର୍ଗ ଫିଲ୍ଟର୍ କରନ୍ତୁ ..."
+
+msgid "No channels found in search!!!"
+msgstr "ସନ୍ଧାନରେ କ channels ଣସି ଚ୍ୟାନେଲ ମିଳିଲା ନାହିଁ !!!"
+
+msgid "Radio N°%s"
+msgstr "ରେଡିଓ N °% s |"
+
+msgid "Search"
+msgstr "ସନ୍ଧାନ କର |"
+
+msgid "Select"
+msgstr "ଚୟନ କରନ୍ତୁ |"

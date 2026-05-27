@@ -1,0 +1,42 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Download Error"
+msgstr "ダウンロードエラー"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Export TV"
+msgstr "テレビのエクスポート"
+
+msgid "Filter this category..."
+msgstr "このカテゴリをフィルタリング..."
+
+msgid "No channels found in search!!!"
+msgstr "検索でチャンネルが見つかりませんでした。"
+
+msgid "Radio N°%s"
+msgstr "無線番号%s"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Select"
+msgstr "選択"

@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <tamil@systemreboot.net>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "பதிவிறக்கப் பிழை"
+
+msgid "Exit"
+msgstr "வெளியேறு"
+
+msgid "Export TV"
+msgstr "ஏற்றுமதி டிவி"
+
+msgid "Filter this category..."
+msgstr "இந்த வகையை வடிகட்டவும்..."
+
+msgid "No channels found in search!!!"
+msgstr "தேடலில் சேனல்கள் இல்லை!!!"
+
+msgid "Radio N°%s"
+msgstr "ரேடியோ N°%s"
+
+msgid "Search"
+msgstr "தேடு"
+
+msgid "Select"
+msgstr "தேர்ந்தெடு"

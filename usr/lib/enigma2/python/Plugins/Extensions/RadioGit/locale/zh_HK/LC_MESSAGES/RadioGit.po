@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-HK\n"
+"Language: zh-HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "下載錯誤"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Export TV"
+msgstr "出口電視"
+
+msgid "Filter this category..."
+msgstr "過濾此類別..."
+
+msgid "No channels found in search!!!"
+msgstr "搜尋中未找到頻道！"
+
+msgid "Radio N°%s"
+msgstr "無線電 N°%s"
+
+msgid "Search"
+msgstr "搜尋"
+
+msgid "Select"
+msgstr "選擇"

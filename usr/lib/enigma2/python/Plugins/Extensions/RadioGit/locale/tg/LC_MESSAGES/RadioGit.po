@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tajik <rkovacs@khujand.org>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "Хатои зеркашӣ"
+
+msgid "Exit"
+msgstr "Баромадгоҳ"
+
+msgid "Export TV"
+msgstr "Содироти ТВ"
+
+msgid "Filter this category..."
+msgstr "Филтри ин категория..."
+
+msgid "No channels found in search!!!"
+msgstr "Дар ҷустуҷӯ ягон канал ёфт нашуд!!!"
+
+msgid "Radio N°%s"
+msgstr "Радиои N°%s"
+
+msgid "Search"
+msgstr "Ҷустуҷӯ"
+
+msgid "Select"
+msgstr "Интихоб кунед"

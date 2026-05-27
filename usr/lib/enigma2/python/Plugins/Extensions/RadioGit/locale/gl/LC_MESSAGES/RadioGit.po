@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Galician <proxecto@trasno.gal>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "Erro de descarga"
+
+msgid "Exit"
+msgstr "Saír"
+
+msgid "Export TV"
+msgstr "Exportar TV"
+
+msgid "Filter this category..."
+msgstr "Filtrar esta categoría..."
+
+msgid "No channels found in search!!!"
+msgstr "Non se atoparon canles na busca!!!"
+
+msgid "Radio N°%s"
+msgstr ""
+
+msgid "Search"
+msgstr "Busca"
+
+msgid "Select"
+msgstr "Seleccione"

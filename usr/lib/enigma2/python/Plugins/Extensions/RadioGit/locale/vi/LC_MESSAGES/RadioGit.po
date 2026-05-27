@@ -1,0 +1,42 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Download Error"
+msgstr "Lỗi tải xuống"
+
+msgid "Exit"
+msgstr "Ra"
+
+msgid "Export TV"
+msgstr "Xuất truyền hình"
+
+msgid "Filter this category..."
+msgstr "Lọc danh mục này..."
+
+msgid "No channels found in search!!!"
+msgstr "Không tìm thấy kênh nào trong tìm kiếm!!!"
+
+msgid "Radio N°%s"
+msgstr "Đài phát thanh N°%s"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "Select"
+msgstr "Lựa chọn"

@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Persian <translation-team-fa@lists.sourceforge.net>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "خطای دانلود"
+
+msgid "Exit"
+msgstr "خارج شوید"
+
+msgid "Export TV"
+msgstr "صادرات تلویزیون"
+
+msgid "Filter this category..."
+msgstr "فیلتر کردن این دسته..."
+
+msgid "No channels found in search!!!"
+msgstr "هیچ کانالی در جستجو یافت نشد!!!"
+
+msgid "Radio N°%s"
+msgstr "رادیو N°%s"
+
+msgid "Search"
+msgstr "جستجو کنید"
+
+msgid "Select"
+msgstr "انتخاب کنید"

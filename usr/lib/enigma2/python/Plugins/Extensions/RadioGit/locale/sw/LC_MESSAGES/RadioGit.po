@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Swahili <(nothing)>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "Hitilafu ya Upakuaji"
+
+msgid "Exit"
+msgstr "Utgång"
+
+msgid "Export TV"
+msgstr "Hamisha TV"
+
+msgid "Filter this category..."
+msgstr "Chuja aina hii..."
+
+msgid "No channels found in search!!!"
+msgstr "Hakuna vituo vilivyopatikana katika utafutaji!!!"
+
+msgid "Radio N°%s"
+msgstr "Redio N°%s"
+
+msgid "Search"
+msgstr "Tafuta"
+
+msgid "Select"
+msgstr "Chagua"

@@ -1,0 +1,41 @@
+# RadioGit translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: RadioGit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Sinhala\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Download Error"
+msgstr "බාගත කිරීමේ දෝෂයකි"
+
+msgid "Exit"
+msgstr "පිටවීම"
+
+msgid "Export TV"
+msgstr "අපනයන රූපවාහිනිය"
+
+msgid "Filter this category..."
+msgstr "මෙම ප්‍රවර්ගය පෙරහන් කරන්න..."
+
+msgid "No channels found in search!!!"
+msgstr "සෙවීමේදී නාලිකා කිසිවක් හමු නොවීය!!!"
+
+msgid "Radio N°%s"
+msgstr "ගුවන්විදුලිය N°%s"
+
+msgid "Search"
+msgstr "සොයන්න"
+
+msgid "Select"
+msgstr "තෝරන්න"
