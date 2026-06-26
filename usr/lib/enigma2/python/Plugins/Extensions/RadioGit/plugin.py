@@ -49,7 +49,7 @@ from Screens.MessageBox import MessageBox
 from Screens.Screen import Screen
 from Screens.VirtualKeyBoard import VirtualKeyBoard
 
-from . import _, __version__
+from . import _
 from . import Utils
 """
 #########################################################
